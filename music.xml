@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<music>
+    <song id="1">
+        <songTitle>Summertime Sadness</songTitle>
+        <artist>Lana Del Rey</artist>
+        <albums>
+            <album>Born to Die</album>
+            <album>Ultraviolence</album>
+            <album>Norman F***ing Rockwell!</album>
+        </albums>
+        <debutYear>2012</debutYear>
+    </song>
+    <song id="2">
+        <songTitle>Watermelon Sugar</songTitle>
+        <artist>Harry Styles</artist>
+        <albums>
+            <album>Fine Line</album>
+            <album>Harry Styles</album>
+        </albums>
+        <debutYear>2019</debutYear>
+    </song>
+    <song id="3">
+        <songTitle>Good Days</songTitle>
+        <artist>SZA</artist>
+        <albums>
+            <album>Ctrl</album>
+            <album>SOS</album>
+        </albums>
+        <debutYear>2020</debutYear>
+    </song>
+    <song id="4">
+        <songTitle>Blinding Lights</songTitle>
+        <artist>The Weeknd</artist>
+        <albums>
+            <album>After Hours</album>
+            <album>Starboy</album>
+        </albums>
+        <debutYear>2020</debutYear>
+    </song>
+    <song id="5">
+        <songTitle>Circles</songTitle>
+        <artist>Post Malone</artist>
+        <albums>
+            <album>Hollywood's Bleeding</album>
+            <album>Beerbongs and Bentleys</album>
+        </albums>
+        <debutYear>2019</debutYear>
+    </song>
+</music>
